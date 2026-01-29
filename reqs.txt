@@ -1,0 +1,8 @@
+discord.py==1.7.3
+requests
+aiohttp
+beautifulsoup4
+websockets
+PyNaCl
+psutil
+matplotlib
